@@ -3,7 +3,7 @@ fn test(n:i32) {
     for i in 0..n { //outer loop
         for j in 0..i + 1 { // inner loop
             print!("&");
-    }
+    } 
     println!("");
     }
 }
