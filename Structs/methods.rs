@@ -5,7 +5,7 @@ struct Course {
     code:i32
 }
 //impl construct to define struct methods
-impl Course {
+impl Course { 
     fn name_code(&self) -> String {
         format!("{} {}", self.name, self.code)
     }
