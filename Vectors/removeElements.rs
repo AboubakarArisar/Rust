@@ -1,5 +1,5 @@
 fn main() {
-   // define a vector of size 5
+   // define a vector of size 5 
    let mut my_vec = vec![1, 2, 3, 4, 5];
    // print vector
    println!("Vector : {:?}", my_vec);
