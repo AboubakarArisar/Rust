@@ -3,7 +3,7 @@ struct Course {
    code:i32,
    name:String,
    level:String, 
-}
+} 
 fn display_mycourse_info(c:Course) {
 println!("Name:{}, Level:{} ,code: {}", c .name, c .level, c.code);
 }
