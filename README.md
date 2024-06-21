@@ -2,5 +2,4 @@
 
 Rust from beginner to advanced
  
- 
- 
+
