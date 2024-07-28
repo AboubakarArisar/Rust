@@ -1,6 +1,6 @@
 # Rust 
    
-Rust from beginner to advanced   
+Rust from beginner to advanced    
   
  
  
